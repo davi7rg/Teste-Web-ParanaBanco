@@ -16,9 +16,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.test.web.paranabanco.methods.Methods;
 
-/**
- * Unit test for simple App.
- */
 public class ValidatorClass {
 
     private static WebDriver driver;
