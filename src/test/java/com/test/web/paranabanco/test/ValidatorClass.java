@@ -88,8 +88,6 @@ public class ValidatorClass {
 
         try {
 
-            // Dava para fazer em um unico findElement mas a ideia aqui e a demonstracao do
-            // uso conforme o exercicio solicita
             // Encontra tabela pela tag que eh unica na pagia
             WebElement elementTable = driver.findElement(By.tagName("table"));
 
