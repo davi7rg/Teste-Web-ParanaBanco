@@ -1,7 +1,6 @@
 # Teste Web Paraná Banco
 Projeto desenvolvido com a intenção de participar da seleção de vaga de automatizador do Paraná Banco
 - [Web (Front-End)](https://github.com/davi7rg/QA-Base-Automation-Framework?tab=readme-ov-file#framework-base-de-automa%C3%A7%C3%A3o-web-front-end---java)
-- API (Back-End) - *À desenvolver*
 
 ## Teste de Automação Web (Front-End) - JAVA
 [Projeto base para utilização na automação do teste Web (Front-End) - JAVA](https://github.com/davi7rg/QA-Base-Automation-Framework?tab=readme-ov-file#framework-base-de-automa%C3%A7%C3%A3o-web-front-end---java)
