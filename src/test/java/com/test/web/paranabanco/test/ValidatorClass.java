@@ -37,7 +37,7 @@ public class ValidatorClass {
         driver = new ChromeDriver();
 
         try {
-            // driver.manage().window().maximize();
+            driver.manage().window().maximize();
             driver.get("https://the-internet.herokuapp.com/challenging_dom");
         } catch (Exception e) {
             e.printStackTrace();
